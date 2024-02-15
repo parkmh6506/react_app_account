@@ -1,0 +1,16 @@
+.Date {
+    color: #333;
+    font-size: 30px;
+    font-weight: 700;
+    border: 5px solid black;
+    display: inline-block;
+    padding: 3px 10px;
+    margin: 30px;
+    cursor: pointer;
+    text-shadow: 3px 3px gray;
+    background-color: beige;
+    transition: .5s;
+}
+.Date:hover {
+    font-size: 35px;
+}
